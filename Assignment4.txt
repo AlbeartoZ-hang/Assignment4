@@ -1,0 +1,8 @@
+1)Strings can be concatenated by using strcat().
+2) Everything is initialized to 0.
+3) To make a multidimentional array of size 64, I would do int array[8, 8], so that it will have 8*8 spaces totaling 64.
+4)
+	1. This compares how big the ASCII value is at a certain index in an array, and returns 1 or -1 depending on which is greater, the first or the second.
+	2. This takes a user input and puts it into a string.
+	3. Concatenates 2 strings, then puts them into the first string.
+	4. Returns the length of a string.
